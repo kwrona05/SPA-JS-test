@@ -1,0 +1,24 @@
+.header {
+    background-color:darkslategray;
+    color: white;
+}
+
+.main {
+    background-color:darkcyan;
+}
+
+.hide {
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    left: -350px;
+}
+
+.show {
+    transform: translateX(350px);
+}
+
+body {
+    background-color: darkcyan;
+}
+
